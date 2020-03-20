@@ -1,3 +1,4 @@
+# Kuljit Sah
 # Termux-Style
 
 It makes the app more colorful.
