@@ -6,7 +6,7 @@ Termux-Style implements style of termux on your Termux app, as well as some colo
 
 
 
-**This repo requires Termux official repo. In mainland China, you may need to add Termux app to your proxy list in order to gain access to Termux official repository.**
+**This repo requires Termux official repo.**
 
 ## Install:
 ```
