@@ -12,8 +12,12 @@ Termux-Style implements style of termux on your Termux app, as well as some colo
 ## Install:
 ```
 Watch 👀 Video 🎥📼📹 till end 🔚
-Link 🔗🔗 :=> 
 ```
+
+### Link 🔗 :=> 
+
+
+
 ## Tips (See Termux Wiki)
 Use two-finger pinch to adjust font size. Termux use combination with volume keys to emulate some functions in shell:
 * `VolDown+C`: `Ctrl+C`, send SIGINT to interrupt current process
